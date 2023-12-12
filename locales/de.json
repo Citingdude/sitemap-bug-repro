@@ -1,0 +1,518 @@
+{
+  "buttons": {
+    "all_about_buy": "Alles rund ums Kaufen",
+    "all_about_rent": "Alles rund ums Mieten",
+    "apply": "Sich bewerben",
+    "back": "Der Rücken",
+    "close": "Schließen",
+    "full_assortment": "Vollständiges Sortiment",
+    "rent_request": "Mietanfrage",
+    "save-pdf": "Als PDF herunterladen",
+    "second-hand": "Second-Hand-Sortiment",
+    "send": "Senden",
+    "all_projects": "Alle Projekte",
+    "readMore": "Weiterlesen",
+    "previous": "Vorherige",
+    "next": "Nächste",
+    "submit_application": "Bewerbung einreichen",
+    "to_homepage": "Zur Startseite",
+    "yes_sure": "Ja, ich bin sicher",
+    "back_to_home": "Zurück nach home",
+    "place_marker": "Markierung platzieren",
+    "show_more": "Zeig mehr",
+    "show_less": "Zeige weniger",
+    "quote_request": "Angebotsanfrage",
+    "back_to_overview": "Zurück zur Übersicht",
+    "more_info": "Mehr Info"
+  },
+  "cookie_bar": {
+    "main": {
+      "accept": "Annehmen",
+      "body": "Diese Website verwendet Cookies und andere Tracking-Technologien für funktionale und analytische Zwecke.\n\nLesen Sie uns",
+      "cookie_policy": "cookie-richtlinie",
+      "preferences": "Einstellungen"
+    },
+    "preferences": {
+      "functional": "Funktionell",
+      "marketing": "Marketing und Statistik",
+      "save_preferences": "Einstellungen speichern"
+    },
+    "title": "Wir verwenden Cookies, um unsere Websites und unseren Service zu optimieren.",
+    "buttons": {
+      "accept_all_cookies": "Alle Cookies akzeptieren",
+      "accept_functional_cookies": "Nur funktionale Cookies akzeptieren"
+    }
+  },
+  "filters": {
+    "all": "Alle",
+    "area": "Bereich",
+    "length": "Länge",
+    "offer": "Angebot",
+    "placeholders": {
+      "type_here": "Geben Sie hier ein ..."
+    },
+    "search": "Suche",
+    "sectors": "Sektoren",
+    "total": "Gesamt",
+    "unit_options": "Einheitenoptionen",
+    "unit_type": "Gerätetyp",
+    "width": "Breite",
+    "availability": "Verfügbarkeit",
+    "availabile_immediately": "Schnelle Lieferung (< 2 Werktage)",
+    "features": "Merkmale",
+    "surface": "Auftauchen",
+    "unit_placement": "Platzierung",
+    "top": "oben",
+    "bottom": "Unterseite",
+    "door_placement": "Türplatzierung",
+    "new": "Neu",
+    "second_hand": "Gebraucht",
+    "direction": "Richtung",
+    "rotate": "180° drehen"
+  },
+  "form": {
+    "contact": {
+      "introduction": {
+        "business": "Das Unternehmen ist...",
+        "private": "Hi Ich bin...",
+        "my-information": "Meine Details...",
+        "searching-for": "Ich suche..."
+      },
+      "success": {
+        "title": "Danke für deine Nachricht!"
+      },
+      "buttons": {
+        "next": "Nächste",
+        "previous": "Vorherige"
+      },
+      "success_message": "Wir werden uns so schnell wie möglich darum kümmern",
+      "unit_info": "Ich möchte weitere Informationen zur Einheit: {message}"
+    },
+    "job": {
+      "file_upload": "Ziehen Sie Ihre Datei hierher oder durchsuchen Sie sie",
+      "success": {
+        "title": "Vielen Dank für Ihre Anfrage!"
+      },
+      "title": "Wirst du unser neuer Kriegskollege?"
+    },
+    "labels": {
+      "company_name": "Name der Firma",
+      "company_street": "Firmenstraße",
+      "country": "Land",
+      "cv": "Optional Lebenslauf oder Motivation",
+      "details": "Einzelheiten",
+      "email": "Email",
+      "first_name": "Vorname",
+      "house_number": "Hausnummer",
+      "last_name": "Nachname",
+      "legal_status": "Rechtsstellung",
+      "message": "Nachricht",
+      "munincipality": "Gemeinde",
+      "name": "Name",
+      "offer": "Weitere Informationen zu:",
+      "phone": "Telefon",
+      "postal_code": "Postleitzahl",
+      "privacy_policy": "Ich habe die Datenschutzerklärung gelesen und akzeptiere sie.",
+      "sector": "Sektor",
+      "street": "Straße",
+      "type": "Typ",
+      "vat_number": "Firmennummer",
+      "message-alt": "Mit was können wir dir helfen?",
+      "address_identical_to_delivery_address": "Adresse identisch mit Lieferadresse?",
+      "terms": "Ich habe die AGB gelesen und stimme ihnen zu.",
+      "location_images": "Fotos vom Standort",
+      "anything_else_you_want_to_know": "Willst du noch etwas anderes wissen?",
+      "weeks": "Woche(n)",
+      "months": "Monat(e)",
+      "preferred_delivery_date": "Bevorzugter Liefertermin",
+      "amount": "Menge",
+      "rental_term": "Mietdauer",
+      "location_easily_accessible": "Ist der Lieferort gut erreichbar?",
+      "warsco_customer": "Ich bin bereits Kunde von Warsco",
+      "delivery_date": "Lieferdatum",
+      "rent_term": "Mietdauer",
+      "categories": "Kategorien",
+      "spontanous_application": "Spontanbewerbung",
+      "yes": "Ja",
+      "no": "Nein",
+      "job_message": "Nachricht",
+      "number": "Nummer",
+      "sent_rental_brochure_only": "Bitte senden Sie mir ausschließlich den Mietprospekt.",
+      "functionality": "Funktionalität oder Anwendung",
+      "mobile_phone": "Mobiltelefon",
+      "remarks": "Bemerkungen",
+      "anythin_else_you_want_to_know": "Gibt es noch mehr was du wissen möchtest?",
+      "brochure_and_contact": "Bitte senden Sie mir die Mietbroschüre zu und kontaktieren Sie mich",
+      "brochure_only": "Ich möchte nur die Mietbroschüre haben",
+      "no_brochure": "Versenden Sie die Mietbroschüre nicht"
+    },
+    "placeholders": {
+      "company_name": "Name der Firma",
+      "company_street": "Firmenstraße",
+      "email": "Email",
+      "first_name": "Vorname",
+      "house_number": "Hausnummer",
+      "last_name": "Nachname",
+      "legal_status": "Rechtsstellung",
+      "munincipality": "Gemeinde",
+      "name": "Name",
+      "phone": "Telefon",
+      "postal_code": "Postleitzahl",
+      "street": "Straße",
+      "vat_number": "BE0430008819",
+      "further_details": "Weitere Details, Kommentare, Nebensächlichkeiten,....",
+      "further_details_location": "Weitere Details zum Standort",
+      "job_message": "Ihre Nachricht...",
+      "number": "Nummer",
+      "mobile_phone": "Mobiltelefon"
+    },
+    "error-messages": {
+      "required": {}
+    },
+    "validation": {
+      "messages": {
+        "required": {
+          "first_name": "Vorname ist erforderlich",
+          "last_name": "Nachname ist erforderlich",
+          "email": "E-Mail ist erforderlich",
+          "phone": "Telefon ist erforderlich",
+          "street": "Straße ist erforderlich",
+          "house_number": "Hausnummer ist erforderlich",
+          "postal_code": "Postleitzahl ist erforderlich",
+          "munincipality": "Gemeinde ist erforderlich",
+          "company_name": "Firmenname ist erforderlich",
+          "company_street": "Firmenstraße ist erforderlich",
+          "vat": "Firmennummer ist erforderlich",
+          "legal_status": "Rechtsstatus erforderlich",
+          "all_fields": "Leider sind nicht alle Felder korrekt ausgefüllt.",
+          "country": "Land ist erforderlich",
+          "future_date": "Das Datum muss in der Zukunft liegen.",
+          "name": "Name ist erforderlich.",
+          "company_number": "Firmennummer ist erforderlich",
+          "message": "Nachricht ist erforderlich.",
+          "mobile_phone": "Mobiltelefon ist erforderlich"
+        },
+        "accepted": {
+          "privacy": "Sie müssen die Datenschutzrichtlinie akzeptieren, bevor Sie fortfahren können."
+        },
+        "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "image": {
+          "not_supported": "Dieses Bildformat wird nicht unterstützt."
+        },
+        "file_size": {
+          "image_too_big": "Ein oder mehrere Bilder sind zu groß (max. 2 MB)."
+        },
+        "contains_number": {
+          "house_number": "Die Hausnummer muss eine Nummer enthalten.",
+          "postal_code": "Die Postleitzahl muss eine Zahl enthalten."
+        },
+        "vat": {
+          "not_valid": "Bitte geben Sie eine gültige niederländische Umsatzsteuer-Identifikationsnummer ohne Zeichen oder Leerzeichen ein.",
+          "belgium": "Bitte geben Sie eine gültige belgische Umsatzsteuer-Identifikationsnummer ohne Zeichen oder Leerzeichen ein.",
+          "netherlands": "Bitte geben Sie eine gültige niederländische Umsatzsteuer-Identifikationsnummer ohne Zeichen oder Leerzeichen ein.",
+          "germany": "Bitte geben Sie eine gültige deutsche Umsatzsteuer-Identifikationsnummer ohne Zeichen oder Leerzeichen ein.",
+          "france": "Bitte geben Sie eine gültige französische Umsatzsteuer-Identifikationsnummer ohne Zeichen oder Leerzeichen ein."
+        },
+        "postal": {
+          "belgium": "Bitte geben Sie eine gültige belgische Postleitzahl ein.",
+          "netherlands": "Bitte geben Sie eine gültige niederländische Postleitzahl ein.",
+          "germany": "Bitte geben Sie eine gültige deutsche Postleitzahl ein.",
+          "france": "Bitte geben Sie eine gültige französische Postleitzahl ein."
+        }
+      },
+      "required": {
+        "further_details": "Weitere Angaben sind erforderlich.",
+        "delivery_date": "Lieferdatum ist erforderlich.",
+        "amount": "Betrag ist erforderlich."
+      },
+      "min": {
+        "atleast_1": "Muss mindestens 1 sein"
+      }
+    },
+    "validatons": {
+      "messages": {
+        "required": {}
+      }
+    },
+    "validaton": {
+      "messages": {
+        "required": {}
+      }
+    }
+  },
+  "global": {
+    "business": "Geschäft",
+    "filters": "Filter",
+    "private": "Privatgelände",
+    "quality_seekers": "Qualitätssuchende",
+    "results": "Ergebnisse",
+    "search_help": "Benötigen Sie Hilfe bei Ihrer Suche?",
+    "some_projects": "Einige Projekte",
+    "benefits": "Vorteile mit Warsco",
+    "search": "Suche",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "home": {},
+  "job": {
+    "share": "Diesen Job teilen?",
+    "subnav": {
+      "offer": "Angebot",
+      "talent": "Talent",
+      "tasks": "Aufgaben"
+    }
+  },
+  "kpi": {
+    "biggest_site": "Warsco größte Website",
+    "units_in_rotation": "Einheiten in Rotation"
+  },
+  "nav": {
+    "about": "Um",
+    "approach": "Sich nähern",
+    "buy": "Besorgen",
+    "contact": "Kontakt",
+    "cookie_policy": "Cookie-Richtlinie",
+    "disclaimer": "Haftungsausschluss",
+    "faq": "FAQ",
+    "jobs": "Arbeitsplätze",
+    "news": "Nachrichten",
+    "offer": "Angebot",
+    "privacy_policy": "Datenschutz-Bestimmungen",
+    "projects": "Projekte",
+    "quotation": "Zitat",
+    "rent": "Miete",
+    "second_hand": "Gebraucht",
+    "sectors": "Sektoren",
+    "technology": "Technologie",
+    "terms": "Geschäftsbedingungen",
+    "unit_assortment": "Einheitensortiment",
+    "termsNetherlands": "Allgemeine Geschäftsbedingungen Niederlande"
+  },
+  "pagination": {
+    "title": "Ergebnisse"
+  },
+  "projects": {
+    "someProjects": "Einige Projekte",
+    "no_results": "Wir haben keine Projekte gefunden"
+  },
+  "sectors": {
+    "all-realizations": "Alle Erkenntnisse",
+    "event": "Vorfall",
+    "everything-about-renting": "Alles rund ums Mieten",
+    "nursery": "Kindergarten",
+    "office": "Büro",
+    "other_room": "Andere Garderobe",
+    "plumbing": "Installation",
+    "refectory": "Refektorium",
+    "residential": "Wohn",
+    "school": "Schule",
+    "technical_room": "Technikraum",
+    "warehouse": "Lagerhaus",
+    "yard_equipment": "Hofausrüstung",
+    "agriculture": "Obstbau und Landwirtschaft",
+    "industry": "Industrie",
+    "construction": "Konstruktion",
+    "reseller": "Wiederverkäufer",
+    "logistics": "Transport",
+    "schools": "Schulen",
+    "association": "Verband",
+    "care": "Pflegebereich",
+    "other": "Andere",
+    "city": "Stadtverwaltung"
+  },
+  "share": {
+    "realisation": "Dieses Projekt teilen?"
+  },
+  "unit_types": {
+    "basic": "Basic",
+    "custom": "Brauch",
+    "rental": "Vermietung",
+    "sales": "Verkauf",
+    "second_hand": "Gebraucht"
+  },
+  "units": {
+    "no_results": "Wir haben keine Einheiten gefunden.",
+    "no_results_text": "Kein passendes Gerät gefunden? Passen Sie die Spezifikationen an, um andere ähnliche Produkte zu entdecken."
+  },
+  "available_unit": {
+    "title": "Alles über diese Einheit",
+    "description": "Kurze Beschreibung"
+  },
+  "unit": {
+    "specs": {
+      "brand": "Marke",
+      "type": "Typ",
+      "category": "Kategorie",
+      "color": "Farbe",
+      "connection_type": "Art des elektrischen Anschlusses",
+      "electrical_inspection": "Datum der elektrischen Inspektion",
+      "rental_location": "Standort"
+    },
+    "tooltip": {
+      "door_connection": "Wenn 2 Türen vertikal verbunden werden, wird ein Abstandshalter platziert."
+    },
+    "second_hand": "Gebraucht",
+    "available_now": "Jetzt verfügbar"
+  },
+  "configurator": {
+    "extra": {
+      "select_extras": "Wählen Sie Ihre gewünschten Extras aus",
+      "standard_included": "Serienmäßig enthalten",
+      "options": "Optionen",
+      "furniture": "Möbel",
+      "info_message": "Maximale Anzahl pro Artikel erreicht? \nKeine Sorge, wir wissen automatisch, wie viele Einheiten passen."
+    },
+    "steps": {
+      "unit_configuration": "Gerätekonfiguration",
+      "extras": "Extras",
+      "complete": "Vollständig",
+      "details": "Einzelheiten",
+      "summary": "Zusammenfassung"
+    },
+    "title": "Konfigurator",
+    "info_text": "Mix & Match. Wir bieten Ihnen Schalteinheiten in allen Formen und Größen, so dass Sie die Einheiten nach Belieben kombinieren können. Mit Schalteinheiten profitieren Sie also von maximaler Flexibilität. Sie können hier Gebäude mit 6x3 Einheiten konfigurieren, andere Optionen für zusammenhängende Gebäude sind ebenfalls verfügbar, aber nur auf Anfrage.",
+    "configure_building": "Konfigurieren Sie Ihr Gebäude",
+    "floot_plan": "Gebäudeplan",
+    "units": "Einheiten",
+    "floors": {
+      "ground_floor": "Erdgeschoss",
+      "floor_1": "1. Stock",
+      "floor_2": "Etage 2"
+    },
+    "grid": {
+      "extra_row": "Zusätzliche Reihe",
+      "extra_column": "Zusätzliche Spalte"
+    },
+    "complete": {
+      "subtitle": "Erzählen Sie uns ein wenig mehr über die Lieferung",
+      "delivery_details": "Lieferdetails",
+      "location": "Standort",
+      "remarks": "Bemerkungen"
+    },
+    "details": {
+      "tell_us_more": "Hinterlassen Sie hier Ihre Daten",
+      "contact_information": "Kontaktinformationen",
+      "personal_information": "Persönliche Informationen",
+      "company_information": "Firmeninformation"
+    },
+    "summary": {
+      "contact_person": "Gesprächspartner",
+      "company": "Unternehmen",
+      "extras": "Extras",
+      "delivery": "Die Zustellung",
+      "configuration": "Aufbau",
+      "rent_info": "Mietinfos",
+      "save_your_configuration": "Konfiguration speichern?"
+    },
+    "success": {
+      "thank_you": "Vielen Dank für Ihre Anfrage!",
+      "thank_you_message": "Ihre Konfiguration wurde erfolgreich gesendet. \nWir werden es so schnell wie möglich prüfen und uns anschließend mit weiteren Informationen bei Ihnen melden.",
+      "save_application": "Bewerbung speichern? \nDrucken Sie sie aus oder laden Sie sie herunter.",
+      "mail_message": "Außerdem erhalten Sie im Anschluss eine E-Mail mit einem Link, über den Sie Ihre Konfiguration jederzeit überprüfen können."
+    },
+    "warning": {
+      "cancel_title": "Bist du sicher, dass du abbrechen möchtest?",
+      "cancel_message": "Sie haben Ihre Bewerbung noch nicht eingereicht. \nWenn Sie jetzt abbrechen, geht die Konfiguration verloren und Sie müssen danach neu beginnen. \nBist du dir sicher?"
+    },
+    "delivery": {
+      "on_the_map": "Auf der Karte",
+      "map_help": "Ziehen Sie ggf. das Ortsschild an die entsprechende Stelle."
+    },
+    "tool": {
+      "info_message": "Zwischen Einheiten, die vertikal verbunden sind, wird ein Abstand von 0,5 m hinzugefügt.",
+      "validation": {
+        "open_walls": "Ihre Konfiguration hat offene Wände. \nOffene Wände sind nicht erlaubt."
+      }
+    },
+    "furniture": {
+      "standard_included": {
+        "stairs": "Stufen",
+        "heating": "Heizung mit elektrischen Konvektoren",
+        "foundation": "Fundament (bis 10 cm), sofern der Boden eben und befestigt ist",
+        "supply": "Zu- und Abfluss sind bis zur Unterseite des Geräts abgeschlossen"
+      },
+      "total_furnishable_area": "Gesamte möblierbare Fläche",
+      "used_furnishable_area": "Gebrauchte möblierte Fläche"
+    },
+    "not_supported": "Das Konfigurator-Tool wird auf dieser Bildschirmgröße nicht unterstützt",
+    "drag_units": "Ziehen Sie die gewünschten Schalteinheiten auf den Grundriss.",
+    "pdf": {
+      "visit_configuration": "Besuchen Sie die Konfiguration"
+    },
+    "seo": {
+      "description": "Konfigurieren Sie Ihr eigenes Gerät mit unserem Gerätekonfigurator."
+    }
+  },
+  "countries": {
+    "belgium": "Belgien",
+    "netherlands": "Die Niederlande",
+    "germany": "Deutschland",
+    "france": "Frankreich"
+  },
+  "error": {
+    "page_not_found": "Hoppla, Ausgang verpasst. \nSie wurden auf eine Seite weitergeleitet, die nicht existiert. \nWir helfen Ihnen gerne, den Weg zurück zu finden.",
+    "generic": "Etwas ist schief gelaufen."
+  },
+  "footer": {
+    "certificates": "Zertifikate"
+  },
+  "certificates": {
+    "wu_belgium": "WU Belgien",
+    "wu_netherlands": "WU Niederlande"
+  },
+  "news": {
+    "info_text": "Nachfolgend finden Sie die neuesten Nachrichten und Updates zu all unseren Projekten und Arbeiten.",
+    "share_article": "Teile diesen Artikel?"
+  },
+  "pdf": {
+    "summary": {
+      "title": "Konfiguration units",
+      "subtitle": "Überblick über Ihre Bewerbung",
+      "details": "Einzelheiten",
+      "company": "Unternehmen",
+      "extras": "Extras",
+      "delivery": "Die Zustellung"
+    },
+    "grid": {
+      "title": "Details pro Etage",
+      "ground_floor": "Erdgeschoss",
+      "first_floor": "Erste Stock",
+      "second_floor": "Zweiter Stock"
+    },
+    "rent_info": {
+      "title": "Mietinformationen",
+      "subtitle": "Vermietung. \nEinfach."
+    }
+  },
+  "tooltips": {
+    "immediately_available": "Diese Einheiten können innerhalb eines Zeitraums von 48 Stunden geliefert werden, wobei der Zeitpunkt der Anfrage und die Entfernung zum Lieferort berücksichtigt werden.",
+    "second_hand": "Dies ist eine Auswahl unseres Angebots, wenn Sie nicht sofort finden, was Sie suchen, können Sie immer noch unser Kontaktformular mit Ihren Fragen benutzen und wir werden Ihnen gerne helfen."
+  },
+  "legal_status": {
+    "mandated_association": "Mandatsträgerverband",
+    "actual_association": "Tatsächliche Assoziation"
+  },
+  "functionalities": {
+    "office": "Büro",
+    "living": "Wohnen",
+    "refectory": "Refektorium",
+    "plumbing": "Installation",
+    "yard_facility": "Hofanlage",
+    "warehouse": "Lagerhaus",
+    "nursery": "Kindergarten",
+    "school": "Schule",
+    "technical_space": "Technischer Raum",
+    "other": "Andere",
+    "checkroom": "Garderobe",
+    "event": "Fall",
+    "combination": "Kombination"
+  },
+  "quote_type": {
+    "sales_new": "Verkauf neu",
+    "sales_second_hand": "Verkauf aus zweiter Hand",
+    "rent": "Mieten"
+  },
+  "unit_detail": {
+    "more_info": "Ich hätte gerne weitere Informationen zur Einheit:"
+  }
+}

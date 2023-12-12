@@ -1,0 +1,525 @@
+{
+  "home": {},
+  "nav": {
+    "offer": "Offer",
+    "buy": "Buy",
+    "rent": "Rent",
+    "second_hand": "Second hand",
+    "unit_assortment": "Unit assortment",
+    "sectors": "Sectors",
+    "technology": "Technology",
+    "projects": "Projects",
+    "about": "About",
+    "approach": "Approach",
+    "jobs": "Jobs",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "quotation": "Quotation",
+    "cookie_policy": "Cookie Policy",
+    "privacy_policy": "Privacy Policy",
+    "disclaimer": "Disclaimer",
+    "terms": "Terms and Conditions",
+    "news": "News",
+    "termsNetherlands": "Terms and conditions Netherlands"
+  },
+  "pagination": {
+    "title": "Results"
+  },
+  "buttons": {
+    "save-pdf": "Donwload as PDF",
+    "rent_request": "Rent request",
+    "apply": "Apply",
+    "send": "Send",
+    "back": "Back",
+    "second-hand": "Second-hand assortment",
+    "all_about_rent": "Everything about renting",
+    "all_about_buy": "Everything about buying",
+    "full_assortment": "Full assortment",
+    "close": "Close",
+    "all_projects": "All projects",
+    "readMore": "Read more",
+    "previous": "Previous",
+    "next": "Next",
+    "submit_application": "Submit application",
+    "to_homepage": "To homepage",
+    "yes_sure": "Yes I am sure",
+    "back_to_home": "Back to home",
+    "place_marker": "Place marker",
+    "show_more": "Show more",
+    "show_less": "Show less",
+    "quote_request": "Quote request",
+    "back_to_overview": "Back to overview",
+    "more_info": "More info"
+  },
+  "sectors": {
+    "everything-about-renting": "All about renting",
+    "all-realizations": "All realisations",
+    "office": "Office",
+    "residential": "Residential",
+    "refectory": "Refectory",
+    "plumbing": "Plumbing",
+    "yard_equipment": "Yard equipment",
+    "warehouse": "Warehouse",
+    "nursery": "Nursery",
+    "school": "School",
+    "technical_room": "Technical room",
+    "other_room": "Other checkroom",
+    "event": "Event",
+    "agriculture": "Fruit growing and agriculture",
+    "industry": "Industry",
+    "construction": "Construction",
+    "reseller": "Reseller",
+    "logistics": "Transport & logistics",
+    "schools": "Schools",
+    "association": "Association",
+    "care": "Care sector",
+    "other": "Other",
+    "city": "City government"
+  },
+  "global": {
+    "results": "Results",
+    "filters": "Filters",
+    "private": "Private",
+    "business": "Business",
+    "quality_seekers": "Quality seekers",
+    "search_help": "Need help in your search?",
+    "some_projects": "Some projects",
+    "benefits": "Benefits with Warsco",
+    "search": "Search",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "filters": {
+    "search": "Search",
+    "placeholders": {
+      "type_here": "Type here..."
+    },
+    "sectors": "Sectors",
+    "unit_type": "Unit type",
+    "unit_options": "Unit options",
+    "area": "Area",
+    "offer": "Offer",
+    "total": "Total",
+    "length": "Length",
+    "width": "Width",
+    "all": "All",
+    "availability": "Availability",
+    "availabile_immediately": "Fast delivery (< 2 working days)",
+    "features": "Features",
+    "surface": "Surface",
+    "unit_placement": "Placement",
+    "top": "Top",
+    "bottom": "Bottom",
+    "door_placement": "Door placement",
+    "new": "New",
+    "second_hand": "Second hand",
+    "direction": "Direction",
+    "rotate": "Rotate 180°"
+  },
+  "unit_types": {
+    "sales": "Sales",
+    "rental": "Rental",
+    "second_hand": "Second hand",
+    "basic": "Basic",
+    "custom": "Custom"
+  },
+  "form": {
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "street": "Street",
+      "house_number": "House number",
+      "postal_code": "Postal code",
+      "munincipality": "Municipality",
+      "message": "Message",
+      "details": "Details",
+      "offer": "More info on:",
+      "type": "Type",
+      "sector": "Sector",
+      "privacy_policy": "I have read and accept the privacy policy.",
+      "company_name": "Company name",
+      "company_street": "Company street",
+      "vat_number": "Company number",
+      "legal_status": "Legal status",
+      "phone": "Phone",
+      "cv": "Optional CV or motivation",
+      "first_name": "First name",
+      "last_name": "Last name",
+      "country": "Country",
+      "message-alt": "What can we help you with?",
+      "address_identical_to_delivery_address": "Address identical to delivery address?",
+      "terms": "I have read and agree to the terms and conditions.",
+      "location_images": "Photos of location",
+      "anythin_else_you_want_to_know": "Anything else you want to know?",
+      "anything_else_you_want_to_know": "Anything else you want to know?",
+      "weeks": "Week(s)",
+      "months": "Month(s)",
+      "preferred_delivery_date": "Preferred delivery date",
+      "amount": "Amount",
+      "rental_term": "Rental term",
+      "location_easily_accessible": "Is the delivery location easily accessible?",
+      "warsco_customer": "I am already a customer of Warsco",
+      "delivery_date": "Delivery date",
+      "rent_term": "Rent term",
+      "categories": "Categories",
+      "spontanous_application": "Spontaneous application",
+      "yes": "Yes",
+      "no": "No",
+      "job_message": "Message",
+      "number": "Number",
+      "sent_rental_brochure_only": "Please send me the rental brochure only.",
+      "functionality": "Functionality or application",
+      "mobile_phone": "Mobile phone",
+      "remarks": "Remarks",
+      "brochure_and_contact": "Please send the rental brochure and contact me",
+      "brochure_only": "I only wish to have te rental brochure",
+      "no_brochure": "Do not send the rental brochure"
+    },
+    "placeholders": {
+      "name": "Name",
+      "email": "Email",
+      "street": "Street",
+      "house_number": "House number",
+      "postal_code": "Postal code",
+      "munincipality": "Municipality",
+      "company_name": "Company name",
+      "company_street": "Company street",
+      "vat_number": "BE0430008819",
+      "legal_status": "Legal status",
+      "phone": "Telephone",
+      "first_name": "First name",
+      "last_name": "Last name",
+      "further_details": "Further details, comments, incidentals,....",
+      "further_details_location": "Further details about the location",
+      "job_message": "Your message...",
+      "number": "Nummer",
+      "mobile_phone": "Mobile phone"
+    },
+    "contact": {
+      "introduction": {
+        "private": "Hi, I am...",
+        "business": "The company is...",
+        "my-information": "My details...",
+        "searching-for": "I'm looking for..."
+      },
+      "success": {
+        "title": "Thanks for your message!"
+      },
+      "buttons": {
+        "next": "Next",
+        "previous": "Previous"
+      },
+      "success_message": "We'll get on it as soon as possible",
+      "unit_info": "I want more information about unit: {message}"
+    },
+    "job": {
+      "title": "Will you become our new Warscollegue?",
+      "success": {
+        "title": "Thank you for your sollicitation!"
+      },
+      "file_upload": "Drag your file here or browse"
+    },
+    "error-messages": {
+      "required": {}
+    },
+    "validation": {
+      "messages": {
+        "required": {
+          "first_name": "First name is required",
+          "last_name": "Last name is required",
+          "email": "Email is required",
+          "phone": "Phone is required",
+          "street": "Street is required",
+          "house_number": "House number is required",
+          "postal_code": "Postal code is required",
+          "munincipality": "Municipality is required",
+          "company_name": "Company name is required",
+          "company_street": "Company street is required",
+          "vat": "Company number is required",
+          "legal_status": "Legal status is required",
+          "all_fields": "Sorry, not all fields are filled out correctly.",
+          "country": "Country is required",
+          "future_date": "Date must be in the future.",
+          "name": "Name is required.",
+          "company_number": "Company number is required",
+          "message": "Message is required.",
+          "mobile_phone": "Mobile phone is required"
+        },
+        "accepted": {
+          "privacy": "You must accept the privacy policy before you can continue."
+        },
+        "email": "Please enter a valid email address.",
+        "image": {
+          "not_supported": "This image format is not supported."
+        },
+        "file_size": {
+          "image_too_big": "One or more images are too big (max 2mb)."
+        },
+        "contains_number": {
+          "house_number": "House number needs to contain a number.",
+          "postal_code": "Postal code needs to contain a number."
+        },
+        "vat": {
+          "not_valid": "Please insert a valid Dutch VAT number without signs or spaces.",
+          "belgium": "Please insert a valid Belgian VAT number without signs or spaces.",
+          "netherlands": "Please insert a valid Dutch VAT number without signs or spaces.",
+          "germany": "Please insert a valid German VAT number without signs or spaces.",
+          "france": "Please insert a valid French VAT number without signs or spaces."
+        },
+        "postal": {
+          "belgium": "Please enter a valid Belgian postal code.",
+          "netherlands": "Please enter a valid Dutch postal code.",
+          "germany": "Please enter a valid German postal code.",
+          "france": "Please enter a valid French postal code."
+        }
+      },
+      "required": {
+        "further_details": "Further details is required.",
+        "delivery_date": "Delivery date is required.",
+        "amount": "Amount is required."
+      },
+      "min": {
+        "atleast_1": "Must be at least 1"
+      }
+    },
+    "validatons": {
+      "messages": {
+        "required": {}
+      }
+    },
+    "validaton": {
+      "messages": {
+        "required": {}
+      }
+    }
+  },
+  "units": {
+    "no_results": "We did not find any units.",
+    "no_results_text": "Didn't find a suitable unit? Adjust the specifications to discover other similar products."
+  },
+  "share": {
+    "realisation": "Share this project?"
+  },
+  "kpi": {
+    "biggest_site": "Warsco biggest site",
+    "units_in_rotation": "Units in rotation"
+  },
+  "job": {
+    "subnav": {
+      "tasks": "Tasks",
+      "talent": "Talent",
+      "offer": "Offer"
+    },
+    "share": "Share this job?"
+  },
+  "cookie_bar": {
+    "main": {
+      "cookie_policy": "cookie policy",
+      "accept": "Accept",
+      "body": "This website uses cookies and other tracking technologies for functional and analytical purposes. Read our",
+      "preferences": "Preferences"
+    },
+    "title": "We use cookies to optimize our websites and service.",
+    "preferences": {
+      "functional": "Functional",
+      "marketing": "Marketing and statistics",
+      "save_preferences": "Save preferences"
+    },
+    "buttons": {
+      "accept_all_cookies": "Accept all cookies",
+      "accept_functional_cookies": "Only accept functional cookies"
+    }
+  },
+  "projects": {
+    "someProjects": "Some projects",
+    "no_results": "We did not find any projects"
+  },
+  "available_unit": {
+    "title": "Everything about this unit",
+    "description": "Short description"
+  },
+  "unit": {
+    "specs": {
+      "brand": "Brand",
+      "type": "Type",
+      "category": "Category",
+      "color": "Color",
+      "connection_type": "Electric connection type",
+      "electrical_inspection": "Electrical inspection date",
+      "rental_location": "Location"
+    },
+    "tooltip": {
+      "door_connection": "When 2 doors connect vertically, a spacer will be placed."
+    },
+    "second_hand": "Second hand",
+    "available_now": "Available now"
+  },
+  "configurator": {
+    "extra": {
+      "select_extras": "Select your required extras",
+      "standard_included": "Standard included",
+      "options": "Options",
+      "furniture": "Furniture",
+      "info_message": "Reached the maximum number per item? Don't worry, we automatically know how many units will fit."
+    },
+    "steps": {
+      "unit_configuration": "Unit configuration",
+      "extras": "Extras",
+      "complete": "Complete",
+      "details": "Details",
+      "summary": "Summary"
+    },
+    "title": "Configurator",
+    "info_text": "Mix & match. We offer you switching units in all shapes and sizes, so you can combine units to your heart's content. So with switching units, you benefit from maximum flexibility. You can configure buildings with 6x3 units here, other options of connected buildings are also available but they are on request only.",
+    "configure_building": "Configure your building",
+    "floot_plan": "Floor plan",
+    "units": "Units",
+    "floors": {
+      "ground_floor": "Ground floor",
+      "floor_1": "Floor 1",
+      "floor_2": "Floor 2"
+    },
+    "grid": {
+      "extra_row": "Extra row",
+      "extra_column": "Extra column"
+    },
+    "complete": {
+      "subtitle": "Tell us a little more about the delivery",
+      "delivery_details": "Delivery details",
+      "location": "Location",
+      "remarks": "Remarks"
+    },
+    "details": {
+      "tell_us_more": "Leave your details here",
+      "contact_information": "Contact information",
+      "personal_information": "Personal information",
+      "company_information": "Company information"
+    },
+    "summary": {
+      "contact_person": "Contact person",
+      "company": "Company",
+      "extras": "Extras",
+      "delivery": "Delivery",
+      "configuration": "Configuration",
+      "rent_info": "Rent info",
+      "save_your_configuration": "Save your configuration?"
+    },
+    "success": {
+      "thank_you": "Thank you for your inquiry!",
+      "thank_you_message": "Your configuration has been sent successfully. We will review it as soon as possible and get back to you with more information afterwards.",
+      "save_application": "Saving your application? Print or download them.",
+      "mail_message": "You will also receive an email afterwards with a link that allows you to review your configuration at any time."
+    },
+    "warning": {
+      "cancel_title": "Are you sure you want to cancel?",
+      "cancel_message": "        You haven't submitted your application yet. If you cancel now, the configuration will be lost and you will have to start over afterwards. Are you sure about this?"
+    },
+    "delivery": {
+      "on_the_map": "On the map",
+      "map_help": "Drag the location sign to the appropriate place if necessary."
+    },
+    "tool": {
+      "info_message": "0.5m spacing will be added between units that connect vertically.",
+      "validation": {
+        "open_walls": "Your configuration has open walls. Open walls are not allowed."
+      }
+    },
+    "furniture": {
+      "standard_included": {
+        "stairs": "Stairs",
+        "heating": "Heating with electric convectors",
+        "foundation": "Foundation (up to 10cm) provided the ground is level and paved",
+        "supply": "Supply and drain are finished to bottom of unit"
+      },
+      "total_furnishable_area": "Total furnishable area",
+      "used_furnishable_area": "Used furnishable area"
+    },
+    "not_supported": "The configurator tool is not supported on this screen size",
+    "drag_units": "Drag the desired units to the floor plan.",
+    "pdf": {
+      "visit_configuration": "Visit configuration"
+    },
+    "seo": {
+      "description": "Configurator your own unit with our unit configurator."
+    }
+  },
+  "configrautor": {
+    "steps": {
+      "complete": {
+        "subtitle": "Tell us a little more about the delivery"
+      }
+    }
+  },
+  "countries": {
+    "belgium": "Belgium",
+    "netherlands": "The Netherlands",
+    "germany": "Germany",
+    "france": "France"
+  },
+  "error": {
+    "page_not_found": "Oops, missed exit. You've been directed to a page that doesn't exist. We're happy to help you find your way back.",
+    "generic": "Something went wrong."
+  },
+  "footer": {
+    "certificates": "Certificates"
+  },
+  "certificates": {
+    "wu_belgium": "WU Belgium",
+    "wu_netherlands": "WU Netherlands"
+  },
+  "news": {
+    "info_text": "Below you will find the latest news and updates on all our projects and work.",
+    "share_article": "Share this article?"
+  },
+  "pdf": {
+    "summary": {
+      "title": "Configuration units",
+      "subtitle": "Overview of your application",
+      "details": "Details",
+      "company": "Company",
+      "extras": "Extras",
+      "delivery": "Delivery"
+    },
+    "grid": {
+      "title": "Details by floor",
+      "ground_floor": "Ground floor",
+      "first_floor": "First floor",
+      "second_floor": "Second floor"
+    },
+    "rent_info": {
+      "title": "Rental information",
+      "subtitle": "Renting. Easy."
+    }
+  },
+  "tooltips": {
+    "immediately_available": "These units can be delivered within a 48h time frame, taking into account the time of the request and distance from the delivery location.",
+    "second_hand": "This is a selection of our offerings, if you do not immediately find what you are looking for you can still use our contact form with your questions and we will be happy to help you."
+  },
+  "legal_status": {
+    "mandated_association": "Mandated association",
+    "actual_association": "Actual association"
+  },
+  "functionalities": {
+    "office": "Office",
+    "living": "Living in house",
+    "refectory": "Refectory",
+    "plumbing": "Plumbing",
+    "yard_facility": "Yard facility",
+    "warehouse": "Warehouse",
+    "nursery": "Nursery",
+    "school": "School",
+    "technical_space": "Technical space",
+    "other": "Other",
+    "checkroom": "Checkroom",
+    "event": "Event",
+    "combination": "Combination"
+  },
+  "quote_type": {
+    "sales_new": "Sales new",
+    "sales_second_hand": "Sales secondhand",
+    "rent": "Rent"
+  },
+  "unit_detail": {
+    "more_info": "I would like more information about unit:"
+  }
+}

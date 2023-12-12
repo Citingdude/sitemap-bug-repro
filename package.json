@@ -9,10 +9,13 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "dependencies": {},
   "devDependencies": {
-    "@nuxt/devtools": "latest",
-    "nuxt": "^3.8.2",
-    "vue": "^3.3.10",
-    "vue-router": "^4.2.5"
+    "@nuxt/devtools": "1.0.5",
+    "nuxt": "3.8.2",
+    "vue": "3.3.10",
+    "vue-router": "4.2.5",
+    "nuxt-simple-sitemap": "4.1.13",
+    "@nuxtjs/i18n": "8.0.0-rc.5"
   }
 }

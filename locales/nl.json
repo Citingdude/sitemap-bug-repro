@@ -1,0 +1,518 @@
+{
+  "home": {},
+  "nav": {
+    "offer": "Aanbod",
+    "buy": "Kopen",
+    "rent": "Huren",
+    "second_hand": "Tweedehands",
+    "unit_assortment": "Unitassortiment",
+    "sectors": "Voor jouw sector",
+    "technology": "Technologie",
+    "projects": "Realisaties",
+    "about": "Over ons",
+    "approach": "Aanpak",
+    "jobs": "Jobs",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "quotation": "Offerte",
+    "cookie_policy": "Cookie Policy",
+    "privacy_policy": "Privacy Policy",
+    "disclaimer": "Disclaimer",
+    "terms": "Algemene voorwaarden België",
+    "news": "Nieuws",
+    "termsNetherlands": "Algemene voorwaarden Nederland"
+  },
+  "pagination": {
+    "title": "Resultaten"
+  },
+  "buttons": {
+    "save-pdf": "Download als PDF",
+    "rent_request": "Huur aanvraag",
+    "apply": "Toepassen",
+    "send": "Verzenden",
+    "back": "Terug",
+    "second-hand": "Tweedehands assortiment",
+    "all_about_rent": "Alles over huren",
+    "all_about_buy": "Alles over kopen",
+    "full_assortment": "Volledig assortiment",
+    "close": "Sluiten",
+    "all_projects": "Alle realisaties",
+    "readMore": "Lees verder",
+    "previous": "Vorige",
+    "next": "Volgende",
+    "submit_application": "Aanvraag indienen",
+    "to_homepage": "Naar homepage",
+    "yes_sure": "Ja, ik weet het zeker",
+    "back_to_home": "Terug naar home",
+    "place_marker": "Plaats marker",
+    "show_more": "Toon meer",
+    "show_less": "Toon minder",
+    "quote_request": "Offerte aanvraag",
+    "back_to_overview": "Terug naar het overzicht",
+    "more_info": "Meer info"
+  },
+  "sectors": {
+    "everything-about-renting": "Alles over huren",
+    "all-realizations": "Alle realisaties",
+    "office": "Kantoor",
+    "residential": "Residentieel",
+    "refectory": "Refter",
+    "plumbing": "Loodgieter",
+    "yard_equipment": "Tuinmateriaal",
+    "warehouse": "Magazijn",
+    "nursery": "Kleuterschool",
+    "school": "School",
+    "technical_room": "Technische ruimte",
+    "other_room": "Andere ruimte",
+    "event": "Evenement",
+    "agriculture": "Fruitteelt en landbouw",
+    "industry": "Industrie",
+    "construction": "Bouw",
+    "reseller": "Wederverkoper",
+    "logistics": "Transport & logistiek",
+    "schools": "Scholen",
+    "association": "Vereniging",
+    "care": "Zorg sector",
+    "other": "Andere",
+    "city": "Stadsbestuur / gemeente"
+  },
+  "global": {
+    "results": "Resultaten",
+    "filters": "Filters",
+    "private": "Particulier",
+    "business": "Zakelijk",
+    "quality_seekers": "Kwaliteitszoekers",
+    "search_help": "Hulp nodig in je zoektocht?",
+    "some_projects": "Enkele realisaties",
+    "benefits": "Voordelen bij Warsco",
+    "search": "Zoeken",
+    "yes": "Ja",
+    "no": "Nee"
+  },
+  "filters": {
+    "search": "Zoeken",
+    "placeholders": {
+      "type_here": "Typ hier..."
+    },
+    "sectors": "Sectoren",
+    "unit_type": "Type unit",
+    "unit_options": "Unit opties",
+    "area": "Oppervlakte",
+    "offer": "Aanbod",
+    "total": "Totaal",
+    "length": "Lengte",
+    "width": "Breedte",
+    "all": "Alle",
+    "availability": "Beschikbaarheid",
+    "availabile_immediately": "Snel leverbaar (< 2 werkdagen)",
+    "features": "Kenmerken",
+    "surface": "Oppervlakte",
+    "unit_placement": "Plaatsing",
+    "top": "Bovenkant",
+    "bottom": "Onderkant",
+    "door_placement": "Plaatsing deur",
+    "new": "Nieuw",
+    "second_hand": "Tweedehands",
+    "direction": "Richting",
+    "rotate": "Draai 180°"
+  },
+  "unit_types": {
+    "sales": "Verkoop nieuw",
+    "rental": "Verhuur",
+    "second_hand": "Verkoop na verhuur",
+    "basic": "Basis",
+    "custom": "Aangepast"
+  },
+  "form": {
+    "labels": {
+      "name": "Naam",
+      "email": "Email",
+      "street": "Straat",
+      "house_number": "Huisnummer",
+      "postal_code": "Postcode",
+      "munincipality": "Stad/gemeente",
+      "message": "Bericht",
+      "details": "Details",
+      "offer": "Meer info over:",
+      "type": "Type",
+      "sector": "Sector",
+      "privacy_policy": "Ik heb het privacybeleid gelezen en geaccepteerd.",
+      "company_name": "Bedrijfsnaam",
+      "company_street": "Bedrijfsstraat",
+      "vat_number": "Ondernemingsnummer",
+      "legal_status": "Juridisch statuut",
+      "phone": "Telefoon",
+      "cv": "Optioneel CV of motivatie",
+      "first_name": "Voornaam",
+      "last_name": "Achternaam",
+      "country": "Land",
+      "message-alt": "Waar kunnen we je bij helpen?",
+      "address_identical_to_delivery_address": "Adres identiek aan afleveradres?",
+      "terms": "Ik heb de algemene voorwaarden gelezen en ga hiermee akkoord.",
+      "location_images": "Foto's van locatie",
+      "anything_else_you_want_to_know": "Wil je nog iets weten?",
+      "weeks": "Week(en)",
+      "months": "Maand(en)",
+      "preferred_delivery_date": "Gewenste bezorgdatum",
+      "amount": "Aantal",
+      "rental_term": "Huurtermijn",
+      "location_easily_accessible": "Is de afleverlocatie goed bereikbaar?",
+      "warsco_customer": "Ik ben al klant bij Warsco",
+      "delivery_date": "Leveringsdatum",
+      "rent_term": "Huur termijn",
+      "categories": "Categorieën",
+      "spontanous_application": "Spontane sollicitatie",
+      "yes": "Ja",
+      "no": "Nee",
+      "job_message": "Boodschap",
+      "number": "Nummer",
+      "sent_rental_brochure_only": "Stuur mij enkel de huurbrochure.",
+      "functionality": "Functionaliteit of toepassing",
+      "mobile_phone": "Mobiele telefoon",
+      "remarks": "Opmerkingen",
+      "anythin_else_you_want_to_know": "Wil je nog iets weten?",
+      "brochure_and_contact": "Graag de huurbrochure en neem contact met mij op",
+      "brochure_only": "Ik wens enkel de huurbrochure",
+      "no_brochure": "Geen huurbrochure versturen"
+    },
+    "placeholders": {
+      "name": "Naam",
+      "email": "Email",
+      "street": "Straat",
+      "house_number": "Huisnummer",
+      "postal_code": "Postcode",
+      "munincipality": "Stad/gemeente",
+      "company_name": "Bedrijfsnaam",
+      "company_street": "Bedrijfsstraat",
+      "vat_number": "BE0430008819",
+      "legal_status": "Juridisch statuut",
+      "phone": "Telefoonnummer",
+      "first_name": "Voornaam",
+      "last_name": "Achternaam",
+      "further_details": "Nadere bijzonderheden, opmerkingen, incidentele posten,....",
+      "further_details_location": "Verdere details over de locatie",
+      "job_message": "Uw bericht...",
+      "number": "Nummer",
+      "mobile_phone": "Mobiele telefoon"
+    },
+    "contact": {
+      "introduction": {
+        "private": "Hallo, ik ben...",
+        "business": "Het bedrijf is...",
+        "my-information": "Mijn gegevens...",
+        "searching-for": "Ik ben op zoek naar..."
+      },
+      "success": {
+        "title": "Bedankt voor je bericht!"
+      },
+      "buttons": {
+        "next": "Volgende",
+        "previous": "Vorige"
+      },
+      "success_message": "We gaan er zo snel mogelijk mee aan de slag",
+      "unit_info": "Ik wens meer informatie over eenheid: {message}"
+    },
+    "job": {
+      "title": "Word jij onze nieuwe Warscocollega?",
+      "success": {
+        "title": "Bedankt voor je sollicitatie!"
+      },
+      "file_upload": "Sleep uw bestand hierheen of blader"
+    },
+    "error-messages": {
+      "required": {}
+    },
+    "validation": {
+      "messages": {
+        "required": {
+          "first_name": "Voornaam is verplicht",
+          "last_name": "Achternaam is verplicht",
+          "email": "E-mail is verplicht",
+          "phone": "Telefoon is verplicht",
+          "street": "Straat is verplicht",
+          "house_number": "Huisnummer is verplicht",
+          "postal_code": "Postcode is vereist",
+          "munincipality": "Gemeente is vereist",
+          "company_name": "Bedrijfsnaam is verplicht",
+          "company_street": "Bedrijfsstraat is verplicht",
+          "vat": "Ondernemingsnummer is verplicht",
+          "legal_status": "Juridische status is vereist",
+          "all_fields": "Sorry, niet alle velden zijn correct ingevuld.",
+          "country": "Land is vereist",
+          "future_date": "Datum moet in de toekomst liggen.",
+          "name": "Naam is vereist.",
+          "company_number": "Ondernemingsnummer is verplicht",
+          "message": "Bericht is vereist.",
+          "mobile_phone": "Mobiele telefoon is vereist"
+        },
+        "accepted": {
+          "privacy": "U moet het privacybeleid accepteren voordat u verder kunt gaan."
+        },
+        "email": "Gelieve een geldig e-mailadres in te geven.",
+        "image": {
+          "not_supported": "Dit afbeeldingsformaat wordt niet ondersteund."
+        },
+        "file_size": {
+          "image_too_big": "Een of meer afbeeldingen zijn te groot (max 2mb)."
+        },
+        "contains_number": {
+          "house_number": "Huisnummer moet een nummer bevatten.",
+          "postal_code": "De postcode moet een nummer bevatten."
+        },
+        "vat": {
+          "not_valid": "Vul a.u.b. een geldig Nederlands BTW-nummer in zonder tekens of spaties.",
+          "belgium": "Vul een geldig Belgisch btw-nummer in zonder tekens of spaties.",
+          "netherlands": "Vul a.u.b. een geldig Nederlands BTW-nummer in zonder tekens of spaties.",
+          "germany": "Voer een geldig Duits btw-nummer in zonder tekens of spaties.",
+          "france": "Voer een geldig Frans btw-nummer in zonder tekens of spaties."
+        },
+        "postal": {
+          "belgium": "Vul een geldige Belgische postcode in.",
+          "netherlands": "Vul een geldige Nederlandse postcode in.",
+          "germany": "Voer een geldige Duitse postcode in.",
+          "france": "Voer een geldige Franse postcode in."
+        }
+      },
+      "required": {
+        "further_details": "Verdere details zijn vereist.",
+        "delivery_date": "Bezorgdatum is verplicht.",
+        "amount": "Aantal is vereist."
+      },
+      "min": {
+        "atleast_1": "Moet minimaal 1 zijn"
+      }
+    },
+    "validatons": {
+      "messages": {
+        "required": {}
+      }
+    },
+    "validaton": {
+      "messages": {
+        "required": {}
+      }
+    }
+  },
+  "units": {
+    "no_results": "We hebben geen units gevonden.",
+    "no_results_text": "Geen geschikte unit gevonden? Pas de specificaties aan om andere vergelijkbare producten te ontdekken."
+  },
+  "share": {
+    "realisation": "Deze realisatie delen?"
+  },
+  "kpi": {
+    "biggest_site": "Warsco grootste site",
+    "units_in_rotation": "Verhuurunits in roulatie"
+  },
+  "job": {
+    "subnav": {
+      "tasks": "Takenpakket",
+      "talent": "Talent",
+      "offer": "Aanbod"
+    },
+    "share": "Deze vacature delen?"
+  },
+  "cookie_bar": {
+    "title": "Wij gebruiken cookies om onze websites en service te optimaliseren.",
+    "main": {
+      "body": "Deze website maakt gebruik van cookies en andere trackingtechnologieën voor functionele en analytische doeleinden. Lees ons",
+      "preferences": "Liever je voorkeuren aanpassen?",
+      "cookie_policy": "cookiebeleid",
+      "accept": "Accepteren"
+    },
+    "preferences": {
+      "functional": "Functioneel",
+      "marketing": "Marketing en statistieken",
+      "save_preferences": "Voorkeuren bewaren"
+    },
+    "buttons": {
+      "accept_all_cookies": "Accepteer alle cookies",
+      "accept_functional_cookies": "Accepteer alleen functionele cookies"
+    }
+  },
+  "projects": {
+    "someProjects": "Enkele realisaties",
+    "no_results": "We hebben geen realisaties gevonden"
+  },
+  "available_unit": {
+    "title": "Alles over deze unit",
+    "description": "Korte beschrijving"
+  },
+  "unit": {
+    "specs": {
+      "brand": "Merk",
+      "type": "Type",
+      "category": "Categorie",
+      "color": "Kleur",
+      "connection_type": "Elektrisch connectie type",
+      "electrical_inspection": "Elektrische keurings datum",
+      "rental_location": "Plaats"
+    },
+    "tooltip": {
+      "door_connection": "Wanneer 2 deuren verticaal aansluiten, wordt er een afstandsstuk geplaatst."
+    },
+    "second_hand": "Tweedehands",
+    "available_now": "Nu beschikbaar"
+  },
+  "configurator": {
+    "extra": {
+      "select_extras": "Selecteer je gewenste extra's",
+      "standard_included": "Standaard inbegrepen",
+      "options": "Opties",
+      "furniture": "Meubilair",
+      "info_message": "Maximaal aantal per item bereikt? \nJij kan! \nMaak je geen zorgen, we weten automatisch hoeveel eenheden er passen."
+    },
+    "steps": {
+      "unit_configuration": "Unitconfiguratie",
+      "extras": "Extra's",
+      "complete": "Vervolledigen",
+      "details": "Gegevens",
+      "summary": "Overzicht"
+    },
+    "title": "Configurator",
+    "info_text": "Mix & match. Wij bieden u schakelunits in alle soorten en maten, zodat u naar hartelust kunt combineren. Met schakelunits profiteert u dus van maximale flexibiliteit. U kunt hier gebouwen configureren met 6x3 units, andere opties van geschakelde gebouwen zijn ook beschikbaar, maar die zijn alleen op aanvraag.",
+    "configure_building": "Configureer je gebouw",
+    "floot_plan": "Grondplan",
+    "units": "Schakelunits",
+    "floors": {
+      "ground_floor": "Gelijkvloers",
+      "floor_1": "Verdieping 1",
+      "floor_2": "Verdieping 2"
+    },
+    "grid": {
+      "extra_row": "Extra rij",
+      "extra_column": "Extra kolom"
+    },
+    "complete": {
+      "subtitle": "Vertel ons wat meer over de levering",
+      "delivery_details": "Leveringsgegevens",
+      "location": "Plaats",
+      "remarks": "Opmerkingen"
+    },
+    "details": {
+      "tell_us_more": "Laat hier uw gegevens achter",
+      "contact_information": "Contactgegevens",
+      "personal_information": "Persoonlijke informatie",
+      "company_information": "Bedrijfsinformatie"
+    },
+    "summary": {
+      "contact_person": "Contactpersoon",
+      "company": "Bedrijf",
+      "extras": "Extra's",
+      "delivery": "Levering",
+      "configuration": "Configuratie",
+      "rent_info": "Huur informatie",
+      "save_your_configuration": "Uw configuratie opslaan?"
+    },
+    "success": {
+      "thank_you": "Bedankt voor uw aanvraag!",
+      "thank_you_message": "Uw configuratie is succesvol verzonden. \nWe zullen het zo snel mogelijk beoordelen en daarna contact met u opnemen met meer informatie.",
+      "save_application": "Uw aanvraag opslaan? \nPrint of download ze.",
+      "mail_message": "Je ontvangt ook nog een mail met link waarmee je je configuratie kunt herbekijken."
+    },
+    "warning": {
+      "cancel_title": "Weet je zeker dat je dit wilt annuleren?",
+      "cancel_message": "U heeft uw aanvraag nog niet ingediend. \nAls u nu annuleert, gaat de configuratie verloren en moet u daarna opnieuw beginnen. \nWeet je dit zeker?"
+    },
+    "delivery": {
+      "on_the_map": "Op de kaart",
+      "map_help": "Sleep het locatie teken naar de juiste plaats indien nodig."
+    },
+    "tool": {
+      "info_message": "Er wordt een tussenruimte van 0,5 m toegevoegd tussen units die verticaal met elkaar verbonden zijn.",
+      "validation": {
+        "open_walls": "Uw configuratie heeft open wanden. \nOpen wanden zijn niet toegestaan."
+      }
+    },
+    "furniture": {
+      "standard_included": {
+        "stairs": "Trap",
+        "heating": "Verwarming met elektrische convectoren",
+        "foundation": "Fundering (tot 10cm) mits de ondergrond vlak en verhard is",
+        "supply": "Aan- en afvoer zijn afgewerkt tot onderkant unit"
+      },
+      "total_furnishable_area": "Totale inrichtbare oppervlakte",
+      "used_furnishable_area": "Gebruikte inrichtbare ruimte"
+    },
+    "not_supported": "De configuratortool wordt niet ondersteund op dit schermformaat",
+    "drag_units": "Sleep de gewenste schakelunits naar het grondplan.",
+    "pdf": {
+      "visit_configuration": "Bezoek configuratie"
+    },
+    "seo": {
+      "description": "Configureer uw eigen unit met onze unitconfigurator."
+    }
+  },
+  "countries": {
+    "belgium": "België",
+    "netherlands": "Nederland",
+    "germany": "Duitsland",
+    "france": "Frankrijk"
+  },
+  "error": {
+    "page_not_found": "Oeps, afslag gemist. Je bent naar een pagina geleid die niet bestaat. We helpen je graag de weg weer terug te vinden.",
+    "generic": "Er is iets fout gegaan."
+  },
+  "footer": {
+    "certificates": "Certificaten"
+  },
+  "certificates": {
+    "wu_belgium": "WU België",
+    "wu_netherlands": "WU Nederland"
+  },
+  "news": {
+    "info_text": "Hieronder vindt u het laatste nieuws en updates over al onze projecten en werkzaamheden.",
+    "share_article": "Deel dit artikel?"
+  },
+  "pdf": {
+    "summary": {
+      "title": "Configuratie schakelunits",
+      "subtitle": "Overzicht van uw aanvraag",
+      "details": "Details",
+      "company": "Bedrijf",
+      "extras": "Extra's",
+      "delivery": "Levering"
+    },
+    "grid": {
+      "title": "Details per verdieping",
+      "ground_floor": "Gelijkvloers",
+      "first_floor": "Eerste verdieping",
+      "second_floor": "Tweede verdieping"
+    },
+    "rent_info": {
+      "title": "Huur informatie",
+      "subtitle": "Huren. Simpel"
+    }
+  },
+  "tooltips": {
+    "immediately_available": "Deze units kunnen binnen een tijdspanne van 48u geleverd worden, rekening houdend met het tijdstip van de aanvraag en de afstand tot de leverlocatie.",
+    "second_hand": "Dit is een selectie van ons aanbod, vindt je niet meteen wat je zoekt kan je via ons contactformulier nog met je vragen terecht en helpen we je graag verder."
+  },
+  "legal_status": {
+    "mandated_association": "Opdrachthoudende vereniging",
+    "actual_association": "Feitelijke vereniging"
+  },
+  "functionalities": {
+    "office": "Kantoor",
+    "living": "Wonen",
+    "refectory": "Refter",
+    "plumbing": "Sanitair",
+    "yard_facility": "Werkinrichting",
+    "warehouse": "Magazijn",
+    "nursery": "Kinderopvang",
+    "school": "School",
+    "technical_space": "Technische ruimte",
+    "other": "Ander",
+    "checkroom": "Vestiaire",
+    "event": "Evenement",
+    "combination": "Combinatie"
+  },
+  "quote_type": {
+    "sales_new": "Verkoop nieuw",
+    "sales_second_hand": "Verkoop tweedehands",
+    "rent": "Verhuur"
+  },
+  "unit_detail": {
+    "more_info": "Ik wens meer informatie over unit:"
+  }
+}
